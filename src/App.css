@@ -1,0 +1,37 @@
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin:0;
+  border:0;  
+}
+.counter{
+  color:white;
+  text-transform: capitalize;
+
+}
+.div {
+  background-color: black;
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  
+}
+.incr {
+  display: flex;
+  flex-direction: column;
+  justify-content:space-between;
+  color: black;
+  padding:10px;
+  margin-top: 10px;
+  border-radius: 4px;
+  width:100px;
+}
+
+.para{
+  color: white;
+  margin-top:10px;
+  font-size:x-large;
+}
+
